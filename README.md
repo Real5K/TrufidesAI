@@ -64,5 +64,4 @@ Your biggest expenses this week are:
 
 ---
 
-###### *Note: Requires `transformers`, `sqlite3`, and `torch` (with CUDA toolkit for GPU support).*
-```
+###### *Note: Requires `transformers`, `sqlite3`, and `torch` (with CUDA toolkit for GPU support).
