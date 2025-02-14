@@ -1,4 +1,3 @@
-```markdown
 # 💸 Smart Expense Tracker with NLP
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
